@@ -1,0 +1,19 @@
+{
+  "name": "trainsnoapi",
+  "version": "1.0.0",
+  "description": "a simple tool to check DC WMATA real-time train predictions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erobbi/DCmetroTrainTimes.git"
+  },
+  "author": "Eli Robbins, Shawn Choi, and Alec Magnet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erobbi/DCmetroTrainTimes/issues"
+  },
+  "homepage": "https://github.com/erobbi/DCmetroTrainTimes#readme"
+}
